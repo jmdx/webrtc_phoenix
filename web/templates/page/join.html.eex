@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <div id="connectionData" data-connection="<%= @connectionData %>">Connetion data <%= @connectionData %>!</div>
+</div>
+<div class="hidden" id="appPage" data-page="join"></div>
